@@ -1,2 +1,2 @@
 # Hello-World
-start a prejoct
+start a project
